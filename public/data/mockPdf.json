@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "fileNumber": 99,
+    "fileLeads": 4,
+    "fileName": "American Journal.pdf",
+    "filePositivity": "M",
+    "src": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "articlesArray": [],
+    "thumbnails": [
+      "./data/thumbnails/dummy/page-1.png"
+    ]
+  },
+  {
+    "id": "2",
+    "fileNumber": 98,
+    "fileLeads": 2,
+    "fileName": "New Britain herald.pdf",
+    "filePositivity": "M",
+    "src": "http://www.pdf995.com/samples/pdf.pdf",
+    "articlesArray": [],
+    "thumbnails": [
+      "./data/thumbnails/britain/page-1.png",
+      "./data/thumbnails/britain/page-2.png",
+      "./data/thumbnails/britain/page-3.png",
+      "./data/thumbnails/britain/page-4.png",
+      "./data/thumbnails/britain/page-5.png"
+    ]
+  },
+  {
+    "id": "3",
+    "fileNumber": 97,
+    "fileLeads": 0,
+    "fileName": "Advocate Oak Cliff.pdf",
+    "filePositivity": "U",
+    "src": "http://www.africau.edu/images/default/sample.pdf",
+    "articlesArray": [],
+    "thumbnails": [
+      "./data/thumbnails/simple/page-1.png",
+      "./data/thumbnails/simple/page-2.png"
+    ]
+  },
+  {
+    "id": "4",
+    "fileNumber": 99,
+    "fileLeads": 3,
+    "fileName": "The Bristol Press",
+    "filePositivity": "U",
+    "src": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "articlesArray": [],
+    "thumbnails": [
+      "./data/thumbnails/dummy/page-1.png"
+    ]
+  },
+  {
+    "id": "5",
+    "fileNumber": 96,
+    "fileLeads": 4,
+    "fileName": "American Journal.pdf",
+    "filePositivity": "P",
+    "src": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "articlesArray": [],
+    "thumbnails": [
+      "./data/thumbnails/dummy/page-1.png"
+    ]
+  },
+  {
+    "id": "6",
+    "fileNumber": 95,
+    "fileLeads": 4,
+    "fileName": "American Journal.pdf",
+    "filePositivity": "P",
+    "src": "http://www.pdf995.com/samples/pdf.pdf",
+    "articlesArray": [],
+    "thumbnails": [
+      "./data/thumbnails/britain/page-1.png",
+      "./data/thumbnails/britain/page-2.png",
+      "./data/thumbnails/britain/page-3.png",
+      "./data/thumbnails/britain/page-4.png",
+      "./data/thumbnails/britain/page-5.png"
+    ]
+  }
+]
